@@ -1,4 +1,3 @@
-script.js
 var ne=8
 function adivinar(){
     var nd=document.getElementById("barra").value;
